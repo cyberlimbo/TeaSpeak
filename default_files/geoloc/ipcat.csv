@@ -1042,6 +1042,8 @@
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
 74.119.144.0,74.119.147.255,colo@,http://coloat.com/
 74.119.216.0,74.119.219.255,Continuum Data Centers,http://www.continuumdatacenters.com/
+74.120.221.0,74.120.221.255,Continuum Data Centers,http://www.continuumdatacenters.com/
+74.120.223.0,74.120.223.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.121.180.0,74.121.183.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.121.192.0,74.121.199.255,BlackMesh,http://www.blackmesh.com/
 74.122.120.0,74.122.123.255,Quasar Data Center,http://quasardata.com/
@@ -1613,6 +1615,7 @@
 103.245.222.0,103.245.224.255,Fastly,https://www.fastly.com/
 103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 103.246.250.0,103.246.251.255,quickweb.co.nz,http://quickweb.co.nz/
+103.254.155.0,103.254.155.255,quickweb.co.nz,http://quickweb.co.nz/
 104.16.0.0,104.31.255.255,Cloudflare Inc,https://www.cloudflare.com/
 104.40.0.0,104.43.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.88.0,104.44.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1712,7 +1715,7 @@
 109.200.0.0,109.200.31.255,Redstation Limited,http://redstation.com/
 109.200.192.0,109.200.223.255,i3d.net,http://i3d.net/
 109.201.133.0,109.201.133.255,NFOrce,https://www.nforce.com/
-109.201.137.0,109.201.133.255,NFOrce,https://www.nforce.com/
+109.201.137.0,109.201.137.255,NFOrce,https://www.nforce.com/
 109.201.143.192,109.201.143.255,NFOrce,https://www.nforce.com/
 109.202.96.0,109.202.111.255,serverboost.nl,http://serverboost.nl/
 109.203.96.0,109.203.127.255,eUKhost,http://www.eukhost.com/
@@ -1978,6 +1981,7 @@
 169.56.64.0,169.56.159.255,SoftLayer,http://www.softlayer.com/
 169.57.0.0,169.57.255.255,SoftLayer,http://www.softlayer.com/
 172.64.0.0,172.71.255.255,Cloudflare Inc,https://www.cloudflare.com/
+185.244.215.0,185.244.215.134,FirstClassIT Solutions,https://www.firstclassitsolutions.com/
 172.96.128.0,172.96.135.255,Versaweb,https://versaweb.com/
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.111.64.0,172.111.127.255,Fastly,https://www.fastly.com/
@@ -3019,6 +3023,7 @@
 209.51.192.0,209.51.223.255,XLHost,http://www.xlhost.com/
 209.54.48.0,209.54.63.255,Native Hosting,http://nativehosting.com/
 209.54.96.0,209.54.111.255,DiaHosting,https://www.diahosting.com/en/
+209.58.183.0,209.58.183.255,Leaseweb,http://www.leaseweb.com/
 209.59.128.0,209.59.191.255,Liquid Web,http://www.liquidweb.com/
 209.59.192.0,209.59.223.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 209.61.128.0,209.61.191.255,Rackspace,http://www.rackspace.com/
